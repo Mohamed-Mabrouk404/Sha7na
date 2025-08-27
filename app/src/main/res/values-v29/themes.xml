@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Sha7na" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Optional: disable Android’s auto darkening -->
+        <item name="android:forceDarkAllowed">false</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+</resources>

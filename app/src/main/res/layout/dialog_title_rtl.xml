@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:paddingStart="25dp"
+    android:paddingEnd="25dp"
+    android:paddingTop="15dp"
+    android:paddingBottom="0dp"
+
+    android:textSize="22sp"
+    android:textStyle="normal"
+    android:textColor="@color/purple"
+    android:gravity="right"
+    android:layoutDirection="rtl"
+    android:textDirection="rtl"
+    android:fontFamily = "@font/lalezar"
+
+    />
